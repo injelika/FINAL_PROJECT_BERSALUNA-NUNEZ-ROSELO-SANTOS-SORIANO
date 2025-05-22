@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "SVJys0iYXd4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Angelica Santos\\source\\repos\\HelpdeskApp\\HelpdeskApp.API\\HelpdeskApp.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Angelica Santos\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.3\\microsoft.aspnetcore.openapi.9.0.3.nupkg.sha512",
+    "C:\\Users\\Angelica Santos\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
